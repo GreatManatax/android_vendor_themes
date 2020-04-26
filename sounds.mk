@@ -139,6 +139,6 @@ PRODUCT_COPY_FILES += \
 	vendor/themes/sounds/ringtones/Zen_too.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Zen_too.ogg
 
 DU_PRODUCT_PROPERTIES += \
-   ro.config.ringtone=Zen_too.ogg \
+   ro.config.ringtone=Callisto.ogg \
    ro.config.notification_sound=Duet.ogg \
-   ro.config.alarm_alert=A_real_hoot.ogg
+   ro.config.alarm_alert=Early_twilight.ogg
